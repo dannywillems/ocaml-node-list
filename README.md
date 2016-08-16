@@ -6,6 +6,13 @@ This repository contains the list of bindings in OCaml to NodeJS packages (and N
 
 ## Binding lists
 
+* [NodeJS Core](https://nodejs.org/api/):
+	* Source files: https://github.com/besport/ocaml-node
+* [jsonfile](https://github.com/jprichardson/node-jsonfile)
+	* Source files: https://github.com/besport/ocaml-node-jsonfile
+* [nightmare](https://github.com/segmentio/nightmare)
+	* Source files: https://github.com/besport/ocaml-node-nightmare
+
 ## Maintainers
 
 * Danny Willems
